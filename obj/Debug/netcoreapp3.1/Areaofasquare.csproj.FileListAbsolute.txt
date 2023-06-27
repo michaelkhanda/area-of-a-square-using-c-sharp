@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/Areaofasquare/bin/Debug/netcoreapp3.1/Areaofasquare.deps.json
+/Users/michaelkhanda/Desktop/Areaofasquare/bin/Debug/netcoreapp3.1/Areaofasquare.runtimeconfig.json
+/Users/michaelkhanda/Desktop/Areaofasquare/bin/Debug/netcoreapp3.1/Areaofasquare.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/Areaofasquare/bin/Debug/netcoreapp3.1/Areaofasquare.dll
+/Users/michaelkhanda/Desktop/Areaofasquare/bin/Debug/netcoreapp3.1/Areaofasquare.pdb
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.dll
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.pdb
+/Users/michaelkhanda/Desktop/Areaofasquare/obj/Debug/netcoreapp3.1/Areaofasquare.genruntimeconfig.cache
